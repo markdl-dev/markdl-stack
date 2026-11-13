@@ -1,0 +1,19 @@
+{
+  "name": "markdl-stack",
+  "owner": {
+    "name": "Mark DL"
+  },
+  "description": "Mark DL's working skills and plugins for coding agents",
+  "plugins": [
+    {
+      "name": "review-loop",
+      "description": "Independent Codex reviews for Claude Code with verified progress, stable finding identities, and cycle stops for a user decision.",
+      "version": "2.4.1",
+      "author": {
+        "name": "Mark DL"
+      },
+      "source": "./plugins/claude/review-loop",
+      "category": "development"
+    }
+  ]
+}

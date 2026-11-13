@@ -1,0 +1,22 @@
+.DS_Store
+.env
+.env.*
+!.env.example
+*.log
+*.tmp
+node_modules/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+dist/
+build/
+coverage/
+.idea/
+.vscode/
+
+# Private planning, scratch files, and local review state.
+/.local/
+/docs/drafts/
+/.review-loop/
+/.review-loop-v2/

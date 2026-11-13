@@ -1,0 +1,4 @@
+interface:
+  display_name: "Chunk Plan for Spec Kit"
+  short_description: "Turn broad plans into ordered feature slices"
+  default_prompt: "Use $chunk-plan-for-spec-kit to assess this plan and either confirm it is Spec Kit-ready or turn it into an ordered feature backlog."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Review Loop"
+  short_description: "Run independent review and fix cycles"
+  default_prompt: "Use $review-loop to independently review, resolve, verify, and re-review the current change."

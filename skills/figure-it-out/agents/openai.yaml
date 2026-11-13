@@ -1,0 +1,5 @@
+interface:
+  display_name: "Figure It Out"
+  short_description: "Plan and verify ambitious work with your standards"
+policy:
+  allow_implicit_invocation: false

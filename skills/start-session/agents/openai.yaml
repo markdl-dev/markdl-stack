@@ -1,0 +1,4 @@
+interface:
+  display_name: "Start Session"
+  short_description: "Prepare worktrees for parallel ticket work"
+  default_prompt: "Use $start-session to check this Git workspace and its existing worktrees. With a ticket key, create or reuse that ticket's worktree so I can work alongside other sessions. Include configured ticket and PR status."

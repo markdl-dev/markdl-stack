@@ -1,0 +1,8 @@
+{
+  "name": "review-loop",
+  "description": "Independent Codex reviews for Claude Code with persistent finding identities, progress checks, and cycle stops that require a user decision.",
+  "version": "2.4.1",
+  "author": {
+    "name": "Mark DL"
+  }
+}
